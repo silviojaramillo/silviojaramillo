@@ -17,8 +17,6 @@
         <td align="center">🙂</td>
         <td align="center">😅</td>
         <td align="center">😐</td>
-        <td align="center">🤢</td>
-        <td align="center">🤮</td>
     </tr>
     <tr>
         <td align="center"><img src="icons/python.png" alt="python" width="55" height="55" align="middle" /></td>
