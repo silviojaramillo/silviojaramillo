@@ -3,7 +3,7 @@
 <h3 align="left">Ingeniero electricista en formación :muscle:</h3>
 
 - 🎓 Estudiante de sexto semestre de ingeniería eléctrica ⚡
-- 🧠 Mi pasatiempo favorito después de investigar curiosidades sobre electricidad es la programación :man_technologist:.
+- 🧠 Mi pasatiempo favorito después de investigar curiosidades sobre electricidad y programación :man_technologist:.
 - 🤓 En mi tiempo libre me gusta resolver retos en diferentes lenguajes de programación.
 - 📝 Me encanta compartir lo que aprendo a través de vídeos en redes sociales o YouTube.
 
