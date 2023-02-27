@@ -1,4 +1,4 @@
-<h1 align="left"> :wave: ¡Hola mundo, aquí El Inge Silvio!</h1>
+<h1 align="left"> :wave: ¡Hola mundo, aquí, El Inge Silvio!</h1>
 
 <h3 align="left">Ingeniero electricista en formación :muscle:</h3>
 
