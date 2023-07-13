@@ -2,10 +2,10 @@
 
 <h3 align="left">Ingeniero electricista en formación :muscle:</h3>
 
-- 🎓 Estudiante de séptimo semestre de ingeniería eléctrica ⚡
-- 🧠 Programar es mi pasatiempo favorito después de investigar curiosidades sobre electricidad y ver películas de ciencia.
-- 🤓 En mi tiempo libre me gusta resolver retos en diferentes lenguajes de programación y leer artículos cientícos.
-- 📝 Me encanta compartir lo que aprendo a través de vídeos en redes sociales o YouTube.
+- 🎓 Estudiante de octavo semestre de ingeniería eléctrica ⚡
+- 🧠 Programar es mi pasatiempo favorito después de investigar curiosidades sobre electricidad y ver películas de ciencia
+- 🤓 En mi tiempo libre me gusta resolver retos en diferentes lenguajes de programación y leer artículos cientícos
+- 📝 Me encanta compartir lo que aprendo a través de vídeos en redes sociales o YouTube
 
 
 <h3 align="left">Mis lenguajes de programación favoritos 💙</h3>
