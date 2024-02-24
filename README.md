@@ -1,5 +1,5 @@
 <h1 align="left"> :wave: ¡Hola mundo, aquí El Inge Silvio!</h1>
-
+<br>
 <h2 align="left">Ingeniero electricista en formación :muscle:</h2>
 
 - 🎓 Estudiante de noveno semestre de ingeniería eléctrica⚡.
