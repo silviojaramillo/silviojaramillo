@@ -1,7 +1,7 @@
 <h1 align="left"> :wave: ¡Hola mundo, aquí El Inge Silvio!</h1>
 <h2 align="left">Ingeniero electricista en formación :muscle:</h2>
 
-- 🎓 Estudiante de décimo semestre de ingeniería eléctrica⚡.
+- 🎓 Candidato a grado como ingeniero electricista⚡.
 - 🧠 Mis pasatiempos favoritos son: programar, investigar curiosidades sobre electricidad y ver películas de ciencia.
 - 🤓 En mi tiempo libre me gusta resolver retos en diferentes lenguajes de programación y leer artículos científicos.
 - 📝 Me encanta compartir los datos interesantes que encuentro en la literatura sobre ingeniería eléctrica a través de vídeos en redes sociales o YouTube.
