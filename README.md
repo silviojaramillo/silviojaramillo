@@ -1,5 +1,5 @@
 <h1 align="left"> :wave: ¡Hola mundo, aquí El Inge Silvio!</h1>
-<h2 align="left">Ingeniero electricista en formación :muscle:</h2>
+<h2 align="left">Ingeniero electricista en proceso de titulación :muscle:</h2>
 
 - 🎓 Candidato a grado como ingeniero electricista⚡.
 - 🧠 Mis pasatiempos favoritos son: programar, investigar curiosidades sobre electricidad y ver películas de ciencia.
