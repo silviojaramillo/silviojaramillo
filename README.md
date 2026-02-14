@@ -3,7 +3,7 @@
 
 - 🎓 Ingeniero electricista ⚡, egresado de la Universidad del Valle❤️.
 - 🧠 Mis pasatiempos favoritos: programar, investigar curiosidades sobre electricidad y ver películas de ciencia.
-- 🤓 En mi tiempo libre me gusta resolver retos en diferentes lenguajes de programación y leer artículos científicos.
+- 🤓 En mi tiempo libre me gusta leer artículos científicos e investigar sobre los temas en tendencia de la actualidad.
 - 📝 Me encanta compartir los datos interesantes que encuentro en la literatura sobre ingeniería eléctrica a través de vídeos en redes sociales o YouTube.
 
 <h3 align="left">Mis lenguajes de programación favoritos 💙</h3>
